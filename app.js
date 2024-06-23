@@ -64,7 +64,7 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-console.log(numeroSecreto(;
+console.log(numeroSecreto);
 
 
 
